@@ -1,3 +1,4 @@
+# EMRE ÇAKAR
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/emre-cakar/github-slideshow/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -20,11 +21,23 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+3. Grup
 
 **Bold** and _Italic_ and `Code` text
+**Deneme**
+
+
+
 
 [Link](url) and ![Image](src)
 ```
+
+[Ues Marmara](https://ues.marmara.edu.tr/Home/Index) and ![Image](src)
+
+ ```Javascript
+ var a=1;
+ ```
+ 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
